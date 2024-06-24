@@ -9,3 +9,6 @@ overwritten, if it already existed).  In the new file, the waypoints
 are the only thing retained.  They are sorted chronologically, the
 timestamps are all converted to Kenya time (3 hrs ahead of UTC), and
 only the columns that are of interest to me remain.
+
+Despite the name "fixBasecampFiles", this package knows how to read
+files exported from Garmin's Mapsource, too.
