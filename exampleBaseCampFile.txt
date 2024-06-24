@@ -1,0 +1,57 @@
+﻿
+metadata
+ID	name	desc	time	keywords	minlat	minlon	maxlat	maxlon	
+1			2024-06-05T05:36:52Z		-2.73560400120914	37.138038016855717	-2.685320964083076	37.21721900627017	
+
+author
+ID	name	email	
+
+copyright
+year	license	author	
+
+link
+metadataID	authorID	wptID	rteptID	trkptID	rteID	trkID	text	type	href	
+1							"Garmin International"		http://www.garmin.com	
+
+rte
+ID	name	cmt	desc	src	number	type	IsAutoNamed	DisplayColor	TransportationMode	TripName	Date	DayNumber	
+
+rtept
+ID	rteID	lat	lon	ele	time	magvar	geoidheight	name	cmt	desc	src	sym	type	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	DepartureTime	StopDuration	ArrivalTime	CalculationMode	ElevationMode	NamedRoad_Name	NamedRoad_Id	NamedRoad_ProductId	TransportationMode	
+
+wpt
+ID	lat	lon	ele	time	magvar	geoidheight	name	cmt	desc	src	sym	type	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	Proximity	Temperature	Depth	DisplayMode	Samples	Expiration	CreationTime	
+1	-2.685323981568217	37.217216994613409	1138.971313	2024-06-04T09:26:59Z			"DBILS"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T09:26:59Z	
+2	-2.685320964083076	37.21721900627017	1136.9989009999999	2024-06-04T09:26:58Z			"DDBBOO"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T09:26:58Z	
+3	-2.731223031878471	37.141600996255875	1142.6845699999999	2024-06-04T10:34:17Z			"Y1330"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T10:34:17Z	
+4	-2.73233899846673	37.141339983791113	1150.234375	2024-06-04T11:00:10Z			"Y1400"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T11:00:10Z	
+5	-2.732328018173575	37.141329003497958	1152.307251	2024-06-04T11:32:51Z			"Y1430"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T11:32:51Z	
+6	-2.732345033437014	37.141348030418158	1149.560303	2024-06-04T12:01:13Z			"Y1500"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T12:01:13Z	
+7	-2.732346039265394	37.141341995447874	1153.7890620000001	2024-06-04T12:33:53Z			"Y1530"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T12:33:53Z	
+8	-2.731948988512158	37.140898006036878	1149.799438	2024-06-04T13:01:08Z			"Y1600"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T13:01:08Z	
+9	-2.733744978904724	37.138850977644324	1150.0445560000001	2024-06-04T13:34:00Z			"Y1630"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T13:34:00Z	
+10	-2.734534973278642	37.13813197799027	1148.5478519999999	2024-06-04T14:01:47Z			"Y1700"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T14:01:47Z	
+11	-2.735237963497639	37.138038016855717	1144.854126	2024-06-04T14:31:26Z			"Y1730"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T14:31:26Z	
+12	-2.735241986811161	37.138051008805633	1146.515259	2024-06-04T15:01:08Z			"Y1800"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T15:01:08Z	
+13	-2.73122102022171	37.141599990427494	1148.0610349999999	2024-06-04T10:24:23Z			"YBUNK"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T10:24:23Z	
+14	-2.73560400120914	37.138391984626651	1150.7836910000001	2024-06-04T15:22:10Z			"YEDTG"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T15:22:10Z	
+15	-2.735384982079268	37.138097025454044	1144.6166989999999	2024-06-04T14:45:33Z			"YMAT1746"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T14:45:33Z	
+16	-2.731229988858104	37.141592027619481	1147.869751	2024-06-04T10:25:01Z			"YMDTBA"				"Pin, Blue"	"user"											SymbolAndName			2024-06-04T10:25:01Z	
+
+Address
+wptID	StreetAddress1	StreetAddress2	City	State	Country	PostalCode	
+
+PhoneNumber
+wptID	Category	value	
+
+Categories
+wptID	Category	
+
+trk
+ID	name	cmt	desc	src	number	type	DisplayColor	
+
+trkseg
+ID	trkID	
+
+trkpt
+ID	trksegID	lat	lon	ele	time	magvar	geoidheight	name	cmt	desc	src	sym	type	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	Temperature	Depth	wtemp	hr	cad	

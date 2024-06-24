@@ -1,0 +1,26 @@
+Grid	UTM
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	H1330		User Waypoint	37 M 285718 9699894	1134 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 1:30:02 PM (UTC+3)		
+Waypoint	H1400		User Waypoint	37 M 285302 9699851	1131 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 2:01:31 PM (UTC+3)		
+Waypoint	H1430		User Waypoint	37 M 285189 9699995	1144 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 2:30:47 PM (UTC+3)		
+Waypoint	H1500		User Waypoint	37 M 285204 9699814	1151 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 3:00:18 PM (UTC+3)		
+Waypoint	H1530		User Waypoint	37 M 284637 9699898	1151 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 3:32:02 PM (UTC+3)		
+Waypoint	H1600		User Waypoint	37 M 284342 9699239	1142 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 4:09:54 PM (UTC+3)		
+Waypoint	H1630		User Waypoint	37 M 283739 9699089	1142 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 4:30:58 PM (UTC+3)		
+Waypoint	H1700		User Waypoint	37 M 283452 9699066	1140 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 5:01:15 PM (UTC+3)		
+Waypoint	H1730		User Waypoint	37 M 283458 9699068	1139 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 5:29:18 PM (UTC+3)		
+Waypoint	HBUNK		User Waypoint	37 M 285719 9699894	1139 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 1:28:50 PM (UTC+3)		
+Waypoint	HEUNK		User Waypoint	37 M 283102 9698464	1137 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 5:52:15 PM (UTC+3)		
+Waypoint	HMATAD		User Waypoint	37 M 283102 9698463	1139 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 5:52:44 PM (UTC+3)		
+Waypoint	HMDTBA		User Waypoint	37 M 285718 9699894	1136 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 1:29:12 PM (UTC+3)		
+Waypoint	HW1527RAIN		User Waypoint	37 M 284895 9699776	1154 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 3:27:58 PM (UTC+3)		
+Waypoint	HW1542RAIN		User Waypoint	37 M 284743 9699754	1143 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 3:42:54 PM (UTC+3)		
+Waypoint	OGACA30		User Waypoint	37 M 288209 9700365	1139 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 1:15:53 PM (UTC+3)		
+Waypoint	OGTEP30		User Waypoint	37 M 286084 9699712	1138 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 1:24:59 PM (UTC+3)		
+Waypoint	OGUNK20		User Waypoint	37 M 294180 9702880	1138 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 6:34:02 PM (UTC+3)		
+Waypoint	OGUNK70		User Waypoint	37 M 283105 9698465	1139 m				Symbol & Name	Unknown	Flag, Blue					6/4/2024 5:51:29 PM (UTC+3)		
+Departuere waypoints not taken today. Gps delayed in getting signal
+
