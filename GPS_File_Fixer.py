@@ -146,7 +146,7 @@ class GPS_File_Fixer(Frame):
             print("Problem with data! No work done.")
         else:
             # This is where we start doing real work
-            resultText = convertGPSFile(inFile, outFile)
+            resultText = convertBaseCampFile(inFile, outFile)
             sourceFileName = path.basename(inFile)
             outFileName = path.basename(outFile)
             print("Finished reading", sourceFileName, "and writing to", outFileName)
