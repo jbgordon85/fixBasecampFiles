@@ -118,7 +118,7 @@ def convertBaseCampFile(inFilePath, outFilePath):
         
         # Set the "altitude" column to be the "ele" (elevation), but just
         # keep 3 decimal digits
-        thisDict["altitude"] = thisDict["ele"][:]
+        thisDict["altitude"] = str(round(float(thisDict["ele"][:]), 3))
         
         # Temporary list to hold output values
         thisNewRow = []
